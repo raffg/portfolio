@@ -6,7 +6,7 @@ Machine learning project to classify if Trump is truly the author of any given t
 ![trump ticker](images/trump_ticker.gif)
 
 - [GitHub repo](https://github.com/raffg/trump-tweet-author-identification)
-- [Twitter bot account](https://twitter.com/whosintheoval) (no longer active)
+- [Twitter bot account](https://twitter.com/whosintheoval) *(no longer active)*
 - [Medium post discussing procedure and results](https://towardsdatascience.com/whos-tweeting-from-the-oval-office-96ea5b60c03)
 - [Medium post discussing Twitter bot development](https://towardsdatascience.com/whos-tweeting-from-the-oval-office-building-a-twitter-bot-9c602edf91dd)
 
@@ -15,7 +15,7 @@ Python, scikit-learn, Pandas, Tweepy, AWS, Twitter API
 
 ---
 ### A/B testing with Multi-Armed Bandits
-Project to use several multi-armed bandit algorithms and Monte Carlo simulations to perform Bayesian A/B testing.
+Project to use several multi-armed bandit algorithms and Monte Carlo simulations to perform Bayesian A/B testing in order to compare the performance of different algorithms under various circumstances.
 
 ![exp3](images/exp3_arm_selection.png)
 
@@ -72,21 +72,21 @@ Discovered a sudden and temporary increase in average likes per photo on Nationa
 ![NatGeo distribution](images/natgeo_distribution.png)
 
 - [GitHub repo](https://github.com/raffg/natgeo_instagram_anomaly)
-- [Tableau Public storyboard](https://public.tableau.com/profile/greg4084#!/vizhome/NationalGeographiconInstagram/Storyboard) (on web)
+- [Tableau Public storyboard](https://public.tableau.com/profile/greg4084#!/vizhome/NationalGeographiconInstagram/Storyboard) *(on web)*
 
 Technologies used:  
 Python, statsmodels, classical statistics, Seaborn
 
 ---
 ### Forecasting with Python and Tableau
-Developed an interactive dashboard implementing Python code within Tableau to build a time-series forecast.
+Developed an interactive dashboard implementing Python code within Tableau to build a time-series forecast. Original project was to forecast medicine demand for a client in the pharmaceutical industry but I have anonymized the dashboard here by using the common Air Passengers dataset, in order to demonstrate Tableau's new capability of running Python.
 
 ![tableau_arima](images/tableau_arima.png)
 
 - [GitHub repo](https://github.com/raffg/air-passengers-arima)
 - [Medium post](https://github.com/raffg/air-passengers-arima)
-- [Tableau Public dashboard](https://public.tableau.com/profile/greg4084#!/vizhome/sarimaxmodel/SARIMAXdashboard)  (on web)
-- [Full Tableau dashboard](https://github.com/raffg/air-passengers-arima/blob/master/sarimax.twbx)  (requires Tableau installation)
+- [Tableau Public dashboard](https://public.tableau.com/profile/greg4084#!/vizhome/sarimaxmodel/SARIMAXdashboard)  *(on web)*
+- [Full Tableau dashboard](https://github.com/raffg/air-passengers-arima/blob/master/sarimax.twbx)  *(requires Tableau installation)*
 
 Technologies used:  
 Python, statsmodels, Tableau
@@ -97,7 +97,7 @@ Used the Instagram API to collect all image metadata for the top 50 most followe
 
 ![avg likes per million followers](images/instagram_top_50.png)
 
-- [Tableau Public dashboard](https://public.tableau.com/profile/greg4084#!/vizhome/50MostFollowedInstagramUsers/Whoarethe50MostFollowedInstagrammers) (on web)
+- [Tableau Public dashboard](https://public.tableau.com/profile/greg4084#!/vizhome/50MostFollowedInstagramUsers/Whoarethe50MostFollowedInstagrammers) *(on web)*
 - [Medium post](https://towardsdatascience.com/the-top-50-most-followed-instagrammers-visualized-134ca4788938)
 
 Technologies used:  
