@@ -1,5 +1,17 @@
 # Portfolio of personal data science projects
 
+### COVID-19 Interactive Web Dashboard
+Built an interactive dashboard to monitor the COVID-19 pandemic in three regions, worldwide, United States, and Europe, using Plotly and Dash. Data is updated nightly from a source provided by Johns Hopkins University Center for Systems Science and Engineering. App is live and hosted on Heroku at [covid-19-raffg.herokuapp.com](https://covid-19-raffg.herokuapp.com/).
+
+![dashboard](images/ipad_pro.png)
+
+- [GitHub repo](https://github.com/raffg/covid-19)
+- [Web Dashboard](https://covid-19-raffg.herokuapp.com/)
+
+Technologies used:
+Python, Pandas, Plotly, Dash, Heroku
+
+---
 ### Who's Tweeting from the Oval Office?
 Machine learning project to classify if Trump is truly the author of any given tweet on his account, or if it was written and posted by an aide. Deployed via a Twitter bot which predicted in real-time and posted an estimated probability of Trump or an aide being the author of a tweet.
 
