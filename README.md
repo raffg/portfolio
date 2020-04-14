@@ -7,6 +7,7 @@ Built an interactive dashboard to monitor the COVID-19 pandemic in three regions
 
 - [GitHub repo](https://github.com/raffg/covid-19)
 - [Web Dashboard](https://covid-19-raffg.herokuapp.com/)
+- [Medium post documenting features](https://towardsdatascience.com/covid-19-dashboard-b7f8b7c59431?source=friends_link&sk=052bfd87662775d68c5e8b15efcc8aff)
 
 Technologies used:
 Python, Pandas, Plotly, Dash, Heroku
@@ -32,7 +33,7 @@ Project to use several multi-armed bandit algorithms and Monte Carlo simulations
 ![exp3](images/exp3_arm_selection.png)
 
 - [GitHub repo](https://github.com/raffg/multi_armed_bandit)
-- [Medium post](https://towardsdatascience.com/a-b-testing-is-there-a-better-way-an-exploration-of-multi-armed-bandits-98ca927b357d)
+- [Medium post](https://towardsdatascience.com/a-b-testing-is-there-a-better-way-an-exploration-of-multi-armed-bandits-98ca927b357d?source=friends_link&sk=4635341ddef1ec4bc903e4945966d714)
 
 Technologies used:  
 Python, Pandas, Bayesian and classical statistics, Monte Carlo simulations, Matplotlib
@@ -44,10 +45,22 @@ Used the Spotify API and web scraping to download the valence scores for all 68,
 ![Mood by continent](images/mood_by_continent.png)
 
 - [GitHub repo](https://github.com/raffg/spotify_analysis)
-- [Medium post](https://towardsdatascience.com/whats-the-most-wonderful-time-of-the-year-hint-it-s-not-what-the-economist-says-45d96551b664)
+- [Medium post](https://towardsdatascience.com/whats-the-most-wonderful-time-of-the-year-hint-it-s-not-what-the-economist-says-45d96551b664?source=friends_link&sk=f19e71cf528127960d9dfc0a1146b2d4)
 
 Technologies used:  
 Python, Pandas, Spotify API, Spotipy, web scraping, Matplotlib
+
+---
+### Forecasting in Python with Facebook Prophet
+Used advanced forecasting techniques in Facebook's Prophet package to forecast some tricky edge cases using data from Instagram, Divvy bike share, and annual airline passengers.
+
+![kosh_dp](images/kosh_dp.png)
+
+- [GitHub repo](https://github.com/raffg/prophet_forecasting)
+- [Medium post](https://towardsdatascience.com/forecasting-in-python-with-facebook-prophet-29810eb57e66?source=friends_link&sk=47194056e7c5185c71d599df762b5257)
+
+Technologies used:  
+Python, Facebook Prophet, Pandas, forecasting, Instagram API
 
 ---
 ### Harry Potter NLP
@@ -64,18 +77,6 @@ Project to use LDA topic modelling, sentiment analysis, and text summarization o
 
 Technologies used:  
 Python, regular expressions, Gensim, spaCy, NLTK, Matplotlib
-
----
-### Forecasting in Python with Facebook Prophet
-Used advanced forecasting techniques in Facebook's Prophet package to forecast some tricky edge cases using data from Instagram, Divvy bike share, and annual airline passengers.
-
-![kosh_dp](images/kosh_dp.png)
-
-- [GitHub repo](https://github.com/raffg/prophet_forecasting)
-- [Medium post](https://towardsdatascience.com/forecasting-in-python-with-facebook-prophet-29810eb57e66)
-
-Technologies used:  
-Python, Facebook Prophet, Pandas, forecasting, Instagram API
 
 ---
 ### @Natgeo Instagram anomaly
@@ -96,7 +97,7 @@ Developed an interactive dashboard implementing Python code within Tableau to bu
 ![tableau_arima](images/tableau_arima.png)
 
 - [GitHub repo](https://github.com/raffg/air-passengers-arima)
-- [Medium post](https://github.com/raffg/air-passengers-arima)
+- [Medium post](https://towardsdatascience.com/forecasting-with-python-and-tableau-dd37a218a1e5)
 - [Tableau Public dashboard](https://public.tableau.com/profile/greg4084#!/vizhome/sarimaxmodel/SARIMAXdashboard)  *(on web)*
 - [Full Tableau dashboard](https://github.com/raffg/air-passengers-arima/blob/master/sarimax.twbx)  *(requires Tableau installation)*
 
